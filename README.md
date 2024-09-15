@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmadhur32&label=Profile%20views&color=0e75b6&style=flat" alt="harshmadhur32" /> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshmadhur32" alt="harshmadhur32" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@harshmadhur19190" target="blank"><img src="https://img.shields.io/twitter/follow/@harshmadhur19190?logo=twitter&style=for-the-badge" alt="@harshmadhur19190" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Harsh Madhur](https://www.linkedin.com/in/harsh-madhur-631953203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
