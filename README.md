@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Madhur</h1>
 <h3 align="center">B.Tech Student</h3>
+<img align "left" alt="coding" width="400" <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="GitHub - Anmol-Baranwal/Cool-GIFs-For-GitHub: 🤝 Awesome List of GIFs &amp;  avatars to use in GitHub."/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmadhur32&label=Profile%20views&color=0e75b6&style=flat" alt="harshmadhur32" /> </p>
 
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@harshmadhur19190" target="blank"><img src="https://img.shields.io/twitter/follow/@harshmadhur19190?logo=twitter&style=for-the-badge" alt="@harshmadhur19190" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [harshmadhur32/Website](harshmadhur32/Website)
+- 👨‍💻 All of my projects are available at [Harsh Madhur](https://www.linkedin.com/in/harsh-madhur-631953203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📫 How to reach me **harshmadhur904@gmail.com**
 
