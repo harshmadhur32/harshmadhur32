@@ -1,4 +1,4 @@
-![logo](https://github.com/harshmadhur32/harshmadhur32/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/harshmadhur32/harshmadhur32/blob/main/Blue%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Madhur</h1>
 <h3 align="center">B.Tech Student</h3>
 <img align="right" alt="coding" width="400" <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="GitHub - Anmol-Baranwal/Cool-GIFs-For-GitHub: 🤝 Awesome List of GIFs &amp;  avatars to use in GitHub."/>
